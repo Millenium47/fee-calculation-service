@@ -1,1 +1,1 @@
-Small REST API project for interview.
+Simple project for interview with REST API and rabbitMQ messaging.
